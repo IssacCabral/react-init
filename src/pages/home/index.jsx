@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className='container'>
-
+    
       <header>
         <h1>Lista de presença</h1>
         <div>

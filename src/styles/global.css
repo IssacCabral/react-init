@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #222;
+}
+
 body, input, button {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;

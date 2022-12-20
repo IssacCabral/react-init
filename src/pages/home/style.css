@@ -24,6 +24,10 @@
   align-items: center;
 }
 
+.container header h1, .container header div {
+  color: white;
+}
+
 .container input, .container button {
   width: 50%;
   padding: 24px;
@@ -39,8 +43,8 @@
 .container button{
   font-weight: 700;
 
-  background: #EA4C89;
-  color: #FFFFFF;
+  background: chartreuse;
+  color: #444;
 
   margin: 12px 0 50px;
   cursor: pointer;
